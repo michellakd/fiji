@@ -1,5 +1,5 @@
 # fiji
-An ImageJ plugin for everyday repetitive tasks
+An ImageJ macro for everyday repetitive tasks
 
 Are you sick of saving your pics one by one? Setting your channels one by one on your microscopy pictures?
 I wrote this plugin because I wanted to save myself a few clicks.
